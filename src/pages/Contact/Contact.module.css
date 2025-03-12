@@ -1,0 +1,28 @@
+.section__contact {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 50px;
+
+}
+
+h1{
+    font-size: 3rem;
+    margin: 50px 20px 20px 20px;
+    font-weight: 600;
+    color: var(--text-color);
+}
+
+p {
+    padding: 20px;
+}
+
+
+
+.section__foto {
+    width: 300px;
+    height: auto;
+    align-self: center;
+}
+

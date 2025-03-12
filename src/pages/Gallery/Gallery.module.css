@@ -1,0 +1,36 @@
+
+.gallery_container {
+    padding: 50px;
+}
+
+h2 {
+    align-self: center;
+    text-align: center;
+    color: var(--text-color);
+    margin: 20px 5px;
+    font-size: 2rem;
+    font-weight: 500;
+}
+
+.description {
+    max-width: 600px;
+    text-align: center;
+    align-self: center;
+}
+
+
+@media (min-width: 769px) {
+
+.event_container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.pictures_container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+}

@@ -1,0 +1,32 @@
+
+
+.side_bar {
+    max-width: 85vw;
+    margin-top: 60px;
+    margin-left: 5px;
+    
+}
+
+
+
+.blurred_edges {
+    mask-image: radial-gradient(circle, rgba(0, 0, 0, 1) 45%, rgba(0, 0, 0, 0) 65%);
+}
+
+@media (min-width: 769px) {
+    .main_site {
+            display: flex;
+            justify-content: space-around;
+            
+        }
+    .blurred_edges {
+            margin: 50px 0;
+        }
+    .main_pic {
+            width: 100%;
+            display: flex;
+            flex-direction: row;
+            justify-content: space-around;
+        }
+    
+    }        
