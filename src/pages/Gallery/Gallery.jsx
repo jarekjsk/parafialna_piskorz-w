@@ -25,15 +25,15 @@ export function Gallery() {
 
           <div className={style.pictures_container}>
 
-            <GalleryPicture img= "src\assets\zdj fatimska piskorzow\zdj1.webp" name= "Matka Boska Fatimska"/>
-            <GalleryPicture img= "src\assets\zdj fatimska piskorzow\zdj2.webp" name= "Kazanie księdza XYZ"/>
-            <GalleryPicture img= "src\assets\zdj fatimska piskorzow\zdj3.webp" name= "Przekazanie relikwii świętego XYZ"/>
-            <GalleryPicture img= "src\assets\zdj fatimska piskorzow\zdj4.webp" name= "Biskup Ignacy Dec"/>
-            <GalleryPicture img= "src\assets\zdj fatimska piskorzow\zdj5.webp" name= "Podziękowania"/>
-            <GalleryPicture img= "src\assets\zdj fatimska piskorzow\zdj6.webp" name= "Wspólna modlitwa"/>
-            <GalleryPicture img= "src\assets\zdj fatimska piskorzow\zdj7.webp" name= "Wspólna modlitwa"/>
-            <GalleryPicture img= "src\assets\zdj fatimska piskorzow\zdj8.webp" name= "Kazanie księdza XYZ"/>
-            <GalleryPicture img= "src\assets\zdj fatimska piskorzow\zdj9.webp" name= "Biskup sprawdza wyśle kogoś na misję"/>
+            <GalleryPicture img= "public\assets\zdj fatimska piskorzow\zdj1.webp" name= "Matka Boska Fatimska"/>
+            <GalleryPicture img= "public\assets\zdj fatimska piskorzow\zdj2.webp" name= "Kazanie księdza XYZ"/>
+            <GalleryPicture img= "public\assets\zdj fatimska piskorzow\zdj3.webp" name= "Przekazanie relikwii świętego XYZ"/>
+            <GalleryPicture img= "public\assets\zdj fatimska piskorzow\zdj4.webp" name= "Biskup Ignacy Dec"/>
+            <GalleryPicture img= "public\assets\zdj fatimska piskorzow\zdj5.webp" name= "Podziękowania"/>
+            <GalleryPicture img= "public\assets\zdj fatimska piskorzow\zdj6.webp" name= "Wspólna modlitwa"/>
+            <GalleryPicture img= "public\assets\zdj fatimska piskorzow\zdj7.webp" name= "Wspólna modlitwa"/>
+            <GalleryPicture img= "public\assets\zdj fatimska piskorzow\zdj8.webp" name= "Kazanie księdza XYZ"/>
+            <GalleryPicture img= "public\assets\zdj fatimska piskorzow\zdj9.webp" name= "Biskup sprawdza wyśle kogoś na misję"/>
   
            </div>
 
@@ -44,17 +44,17 @@ export function Gallery() {
 
           <div className={style.pictures_container}>
 
-            <GalleryPicture img= "src\assets\zdj koncert genesaret\zdj1.webp" name= ""/>
-            <GalleryPicture img= "src\assets\zdj koncert genesaret\zdj2.webp" name= ""/>
-            <GalleryPicture img= "src\assets\zdj koncert genesaret\zdj3.webp" name= ""/>
-            <GalleryPicture img= "src\assets\zdj koncert genesaret\zdj4.webp" name= ""/>
-            <GalleryPicture img= "src\assets\zdj koncert genesaret\zdj5.webp" name= ""/>
-            <GalleryPicture img= "src\assets\zdj koncert genesaret\zdj6.webp" name= ""/>
-            <GalleryPicture img= "src\assets\zdj koncert genesaret\zdj7.webp" name= ""/>
-            <GalleryPicture img= "src\assets\zdj koncert genesaret\zdj8.webp" name= ""/>
-            <GalleryPicture img= "src\assets\zdj koncert genesaret\zdj9.webp" name= ""/>
-            <GalleryPicture img= "src\assets\zdj koncert genesaret\zdj10.webp" name= ""/>
-            <GalleryPicture img= "src\assets\zdj koncert genesaret\zdj11.webp" name= ""/>
+            <GalleryPicture img= "public\assets\zdj koncert genesaret\zdj1.webp" name= ""/>
+            <GalleryPicture img= "public\assets\zdj koncert genesaret\zdj2.webp" name= ""/>
+            <GalleryPicture img= "public\assets\zdj koncert genesaret\zdj3.webp" name= ""/>
+            <GalleryPicture img= "public\assets\zdj koncert genesaret\zdj4.webp" name= ""/>
+            <GalleryPicture img= "public\assets\zdj koncert genesaret\zdj5.webp" name= ""/>
+            <GalleryPicture img= "public\assets\zdj koncert genesaret\zdj6.webp" name= ""/>
+            <GalleryPicture img= "public\assets\zdj koncert genesaret\zdj7.webp" name= ""/>
+            <GalleryPicture img= "public\assets\zdj koncert genesaret\zdj8.webp" name= ""/>
+            <GalleryPicture img= "public\assets\zdj koncert genesaret\zdj9.webp" name= ""/>
+            <GalleryPicture img= "public\assets\zdj koncert genesaret\zdj10.webp" name= ""/>
+            <GalleryPicture img= "public\assets\zdj koncert genesaret\zdj11.webp" name= ""/>
           
            </div>
 
@@ -66,15 +66,15 @@ export function Gallery() {
 
           <div className={style.pictures_container}>
 
-            <GalleryPicture img= "src\assets\zdj wizytacja biskupa\zdj1.webp" name= ""/>
-            <GalleryPicture img= "src\assets\zdj wizytacja biskupa\zdj2.webp" name= ""/>
-            <GalleryPicture img= "src\assets\zdj wizytacja biskupa\zdj3.webp" name= ""/>
-            <GalleryPicture img= "src\assets\zdj wizytacja biskupa\zdj4.webp" name= ""/>
-            <GalleryPicture img= "src\assets\zdj wizytacja biskupa\zdj5.webp" name= ""/>
-            <GalleryPicture img= "src\assets\zdj wizytacja biskupa\zdj6.webp" name= ""/>
-            <GalleryPicture img= "src\assets\zdj wizytacja biskupa\zdj7.webp" name= ""/>
-            <GalleryPicture img= "src\assets\zdj wizytacja biskupa\zdj8.webp" name= ""/>
-            <GalleryPicture img= "src\assets\zdj wizytacja biskupa\zdj9.webp" name= ""/>
+            <GalleryPicture img= "public\assets\zdj wizytacja biskupa\zdj1.webp" name= ""/>
+            <GalleryPicture img= "public\assets\zdj wizytacja biskupa\zdj2.webp" name= ""/>
+            <GalleryPicture img= "public\assets\zdj wizytacja biskupa\zdj3.webp" name= ""/>
+            <GalleryPicture img= "public\assets\zdj wizytacja biskupa\zdj4.webp" name= ""/>
+            <GalleryPicture img= "public\assets\zdj wizytacja biskupa\zdj5.webp" name= ""/>
+            <GalleryPicture img= "public\assets\zdj wizytacja biskupa\zdj6.webp" name= ""/>
+            <GalleryPicture img= "public\assets\zdj wizytacja biskupa\zdj7.webp" name= ""/>
+            <GalleryPicture img= "public\assets\zdj wizytacja biskupa\zdj8.webp" name= ""/>
+            <GalleryPicture img= "public\assets\zdj wizytacja biskupa\zdj9.webp" name= ""/>
            </div>
 
         </article>
@@ -84,7 +84,7 @@ export function Gallery() {
           <p className={style.description}>18 sierpnia w Piskorzowie, a od 19 sierpnia w Lądku-Zdroju, przez trzy kolejne dni, gości coraz bardziej łaskami słynący obraz Matki Bożej Dobrego Początku.</p>
           <div className={style.pictures_container}>
 
-            <GalleryPicture img= "src\assets\MBDP.webp" name= ""/>
+            <GalleryPicture img= "public\assets\MBDP.webp" name= ""/>
 
            </div>
 
@@ -97,7 +97,7 @@ export function Gallery() {
 
     {/* <div className={style.gallery}>
       {images.map((url, index) => (
-        <img key={index} src={url} alt="Gallery" className="gallery-img" />
+        <img key={index} public={url} alt="Gallery" className="gallery-img" />
       ))}
     </div> */}
 
