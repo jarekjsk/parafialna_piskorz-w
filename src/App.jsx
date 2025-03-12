@@ -9,17 +9,17 @@ import { Annoucements } from './pages/Announcements/Annoucements';
 import { Churches } from './pages/Churches/Churches';
 import { Gallery } from './pages/Gallery/Gallery';
 
-import { db } from "./config/firebaseConfig";
-import { collection, getDocs } from "firebase/firestore";
+// import { db } from "./config/firebaseConfig";
+// import { collection, getDocs } from "firebase/firestore";
 
-const fetchData = async () => {
-  const querySnapshot = await getDocs(collection(db, "nazwaTwojejKolekcji"));
-  querySnapshot.forEach((doc) => {
-    console.log(`${doc.id} =>`, doc.data());
-  });
-};
+// const fetchData = async () => {
+//   const querySnapshot = await getDocs(collection(db, "nazwaTwojejKolekcji"));
+//   querySnapshot.forEach((doc) => {
+//     console.log(`${doc.id} =>`, doc.data());
+//   });
+// };
 
-fetchData();
+// fetchData();
 
 
 
