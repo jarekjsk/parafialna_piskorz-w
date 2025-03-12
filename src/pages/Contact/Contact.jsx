@@ -16,7 +16,7 @@ export function Contact() {
             <p><strong>W sprawach nie cierpiących zwłoki zapraszam do bezpośredniego kontaktu telefonicznego lub na plebanię</strong></p>
 
             <Adress />
-            <img className={styles.section__foto} src="\src\assets\38-krzak-krzysztof-7856.jpg" alt="Zdjęcie portretowe" />
+            <img className={styles.section__foto} src="\public\assets\38-krzak-krzysztof-7856.jpg" alt="Zdjęcie portretowe" />
             
 
             <iframe 

@@ -7,7 +7,7 @@ export function Churches() {
 
             <article className={style.main__church}>
                 <h2 className={style.churches__title}>Kościół podwezwaniam św. Jana Nepomucena w <strong>Piskorzowie</strong></h2>
-                <img src="src\assets\churches\mainChurch.jpg" alt="kościół Piskorzów" />
+                <img src="public\assets\churches\mainChurch.jpg" alt="kościół Piskorzów" />
                 <p className={style.churches__description} ><strong>św. Jan Nepomucen</strong><br/>
                     Święty Jan Nepomucen, znany również jako Jan z Pomuka, to postać historyczna i duchowa, która jest obecna w kulturze, sztuce oraz religii. Urodził się w Czechach w XV wieku i został kapłanem, a później kanonikiem w Pradze. Jego życie i działalność łączą się ze szczególną cnotą oraz poświęceniem dla wiary.
                 </p>
@@ -22,7 +22,7 @@ export function Churches() {
             </article>
             <article className={style.second__church}>
                 <h2 className={style.churches__title}>Kościół podwezwaniam św. Bartłomieja Apostoła w <strong>Rościszowie</strong></h2>
-                <img src="src\assets\churches\secondChurch.jpg" alt="kościół Rościszów" />
+                <img src="public\assets\churches\secondChurch.jpg" alt="kościół Rościszów" />
                 <p className={style.churches__description}><strong>św. Bartłomiej</strong><br/>
                     Święty Bartłomiej jest jednym z dwunastu apostołów dwojga imion, zwany w Ewangeliach Mateusza, Marka i Łukasza Bartłomiejem a przez Jana – Natanaelem. est patronem wielu rzemieślników: rzeźników, garbarzy, introligatorów, siodlarzy, szewców, tynkarzy, górników, krawców, piekarzy, sztukatorów, a we Florencji – sprzedawców oliwy, serów i soli; wzywany w przypadku chorób nerwowych, konwulsji i chorób skóry. Ponadto jest uważany za patrona bartników, pasterzy, właścicieli winnic, grzybiarzy i rolników.
                 </p>
@@ -37,7 +37,7 @@ export function Churches() {
             </article>
             <article className={style.third__church}>
                 <h2 className={style.churches__title}>Kościół pod wezwaniam Niepokalanego Serca Najświętszej Maryi Panny w <strong>Bartoszowie</strong></h2>
-                <img src="src\assets\churches\thirdChurch.PNG" alt="kościół Bartoszów" />
+                <img src="public\assets\churches\thirdChurch.PNG" alt="kościół Bartoszów" />
                 <p className={style.churches__description}><strong>Niepokalane Serce Najświętrzej Maryi Panny</strong><br/>
                     O Sercu Maryi jako pierwszy pisze św. Łukasz dwukrotnie w roz. 2 swojej Ewangelii, po raz pierwszy w scenie odwiedzin żłóbka narodzonego Jezusa przez pasterzy, gdy pisze:
                    <br/><em> &quot;Lecz Maryja zachowywała wszystkie te sprawy i rozważała je w swoim sercu.&quot;</em>(Łk 2, 19),<br/>

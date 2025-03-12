@@ -11,10 +11,10 @@ export function Footer() {
             <article className={styles.footer__contact }> 
                 <h3>Polecane strony:</h3>
                 <ul className={styles.footer__links}>
-                    <li><a href="https://www.gosc.pl/" target="_blank" rel="noopener noreferrer"><img className={styles.img__footer} src="\src\assets\gosc.png" alt="gość niedzielny" /></a></li>
-                    <li><a href="https://www.niedziela.pl/" target="_blank" rel="noopener noreferrer"><img className={styles.img__footer} src="src\assets\niedziela.jpg" alt="niedziela" /></a></li>
-                    <li><a href="https://www.radiomaryja.pl/" target="_blank" rel="noopener noreferrer"><img className={styles.img__footer} src="src\assets\radiomaryja.png" alt="radio maryja" /></a></li>
-                    <li><a href="https://karmelczerna.pl/" target="_blank" rel="noopener noreferrer"><img className={styles.img__footer} src="src\assets\karmelczerna.png" alt="karmel czerna" /></a></li>
+                    <li><a href="https://www.gosc.pl/" target="_blank" rel="noopener noreferrer"><img className={styles.img__footer} src="public\assets\gosc.png" alt="gość niedzielny" /></a></li>
+                    <li><a href="https://www.niedziela.pl/" target="_blank" rel="noopener noreferrer"><img className={styles.img__footer} src="public\assets\niedziela.jpg" alt="niedziela" /></a></li>
+                    <li><a href="https://www.radiomaryja.pl/" target="_blank" rel="noopener noreferrer"><img className={styles.img__footer} src="public\assets\radiomaryja.png" alt="radio maryja" /></a></li>
+                    <li><a href="https://karmelczerna.pl/" target="_blank" rel="noopener noreferrer"><img className={styles.img__footer} src="public\assets\karmelczerna.png" alt="karmel czerna" /></a></li>
 
                 </ul>
 
