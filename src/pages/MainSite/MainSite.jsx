@@ -16,7 +16,7 @@ export function MainSite() {
             </section>      
 
             <section className={style.main_pic}>
-                <img className={style.blurred_edges} src="public\assets\kosciol_main.jpg" alt="Kościół" />
+                <img className={style.blurred_edges} src="/assets/kosciol_main.jpg" alt="Kościół" />
             </section>
         </div>
     )
